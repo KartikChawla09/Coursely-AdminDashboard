@@ -20,8 +20,8 @@ If you have any questions or need assistance, our knowledgeable support team is 
 
 ## Additional Resources
 
-- [User Guide](UNDER PRODUCTION)
-- [Developer API](UNDER PRODUCTION)
-- [Support Tickets](UNDER PRODUCTION)
+- [User Guide] (Under Production)
+- [Developer API] (Under Production)
+- [Support Tickets] (Under Production)
 
 We hope you find Coursely to be an invaluable resource for creating and selling your courses. Happy selling!
